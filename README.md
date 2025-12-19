@@ -58,7 +58,6 @@ To automate the marketing cycle, an EventBridge rule triggers the Lambda functio
 | `lambda.py` | Core Python logic for processing and sending. |
 | `email.html` | The responsive marketing email template. |
 | `contacts.csv` | The list of recipient email addresses. |
-| `image_4a51e9.png` | Visual representation of the AWS infrastructure. |
 
 ---
 
